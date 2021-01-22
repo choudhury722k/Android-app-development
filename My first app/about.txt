@@ -1,0 +1,2 @@
+i have uploded the xml and main activity file. the main task of this app was to show random numbers when roll button is clicked and the seekbar set the range.
+thank you :)
