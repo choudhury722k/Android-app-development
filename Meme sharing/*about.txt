@@ -1,1 +1,10 @@
+it is a simple app to share meme which uses an API and consists of 2 button one for next and the other for sharing meme
 
+
+*you have to made some changes to AndroidManiFest.xml which is in manifest folder in app to allow acess of internet for our app
+* <uses-permission android:name="android.permission.INTERNET"/>
+
+*you have to check for internet acess the repisitory of github and google is created or not
+
+*you have to paste the following code in build.gradle(:app) to ensure gradle dependencies on volley
+*implementation 'com.android.volley:volley:1.1.1'
