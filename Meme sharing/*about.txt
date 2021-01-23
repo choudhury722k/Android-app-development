@@ -13,3 +13,10 @@ it is a simple app to share meme which uses an API and consists of 2 button one 
 *androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
     
+***IMPORTANT***
+
+https://github.com/bumptech/glide
+visit to learn more about Glide
+
+https://developer.android.com/training/volley/simple
+visit to learn more about volley and queue request
