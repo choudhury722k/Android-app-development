@@ -1,0 +1,4 @@
+this is a simple app in which we type a name and the birthday with is show.
+*the pic should be in drawable folder inside app
+*mainactivity.kt and Birthdaygreet.kt in java file
+*activity_main.xml and activity_main_greeting.xml in layout
