@@ -1,6 +1,5 @@
 it is a simple app to share meme which uses an API and consists of 2 button one for next and the other for sharing meme
 
-
 *you have to made some changes to AndroidManiFest.xml which is in manifest folder in app to allow acess of internet for our app
 * <uses-permission android:name="android.permission.INTERNET"/>
 
