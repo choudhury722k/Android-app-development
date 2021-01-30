@@ -6,6 +6,7 @@ in this a textview is hidden and when we give a text in one edittext fiels it wi
 i have uploaded the main files
 in the 
 res>values>string.xml/dimens.xml/colors.xml
+
 res>layout>activity.xml
 
 this is the codelab tutorial link
