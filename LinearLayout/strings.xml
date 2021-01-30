@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LinearLayout</string>
+    <string name="name">Choudhury</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Soumya.
+     \n\nI am a student\n\n</string>
+    <string name="what_is_you_name">what is your name</string>
+    <string name="done">Done</string>
+</resources>
